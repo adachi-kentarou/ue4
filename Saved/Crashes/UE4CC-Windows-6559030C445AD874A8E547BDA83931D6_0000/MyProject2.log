@@ -1,0 +1,1513 @@
+﻿Log file open, 06/04/18 16:30:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(382470453) SRandInit(382470453).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.371765
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.545s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-GM436N7 (10.46.1.92:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/unreal_engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.019s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.04-07.30.38:012][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.04-07.30.38:012][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.04-07.30.38:146][  0]LogInit: Computer: DESKTOP-GM436N7
+[2018.06.04-07.30.38:146][  0]LogInit: User: peopl
+[2018.06.04-07.30.38:146][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.04-07.30.38:146][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.06.04-07.30.38:158][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.04-07.30.38:158][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.04-07.30.38:159][  0]LogMemory: Process Physical Memory: 275.66 MB used, 275.66 MB peak
+[2018.06.04-07.30.38:159][  0]LogMemory: Process Virtual Memory: 264.90 MB used, 264.90 MB peak
+[2018.06.04-07.30.38:159][  0]LogMemory: Physical Memory: 3435.88 MB used,  4622.39 MB free, 8058.27 MB total
+[2018.06.04-07.30.38:159][  0]LogMemory: Virtual Memory: 697.64 MB used,  4622.39 MB free, 134217728.00 MB total
+[2018.06.04-07.30.39:238][  0]LogInit: Using OS detected language (ja-JP).
+[2018.06.04-07.30.39:238][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.06.04-07.30.39:429][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.06.04-07.30.40:061][  0]LogStreaming: Display: Took  0.791s to EndInitTextLocalization.
+[2018.06.04-07.30.40:092][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.04-07.30.40:715][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.04-07.30.40:715][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.04-07.30.41:430][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.04-07.30.41:943][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.06.04-07.30.41:943][  0]LogD3D11RHI:       4029/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.04-07.30.41:958][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.04-07.30.41:958][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.04-07.30.41:961][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.04-07.30.41:961][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.04-07.30.41:961][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.04-07.30.41:973][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.04-07.30.41:992][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.06.04-07.30.41:992][  0]LogWindows: EnumDisplayDevices:
+[2018.06.04-07.30.41:992][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.04-07.30.41:992][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.04-07.30.41:992][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.04-07.30.41:992][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.06.04-07.30.41:992][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.04-07.30.41:992][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.06.04-07.30.41:992][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.04-07.30.41:992][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.04-07.30.41:993][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2018.06.04-07.30.42:039][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.06.04-07.30.42:039][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.04-07.30.42:039][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.04-07.30.42:404][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.04-07.30.42:535][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../projects/adachi_rogue/MyProject2/Intermediate/Shaders/WorkingDirectory/696/).
+[2018.06.04-07.30.42:539][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/peopl/AppData/Local/Temp/UnrealShaderWorkingDir/DB1EE04B4D320A2EECB2B091F4A1EA45/'.
+[2018.06.04-07.30.43:352][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.04-07.30.43:370][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.04-07.30.43:382][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.04-07.30.43:394][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.04-07.30.43:421][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.04-07.30.43:444][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.04-07.30.43:469][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.04-07.30.43:492][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.04-07.30.43:509][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.04-07.30.43:528][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.04-07.30.43:571][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.04-07.30.43:609][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.04-07.30.43:638][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.04-07.30.43:655][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.04-07.30.43:669][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.04-07.30.43:711][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.04-07.30.43:711][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.04-07.30.43:747][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.04-07.30.43:762][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.04-07.30.43:872][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.04-07.30.43:891][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.04-07.30.43:910][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.04-07.30.43:934][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.04-07.30.43:964][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.04-07.30.44:017][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.04-07.30.44:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.04-07.30.44:738][  0]LogXGEController: Cleaning working directory: C:/Users/peopl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.04-07.30.44:739][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.04-07.30.44:753][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.04-07.30.44:753][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.04-07.30.46:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: Loaded boot cache 0.39s 74MB C:/Users/peopl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/peopl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/adachi_rogue/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/adachi_rogue/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.04-07.30.47:027][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.04-07.30.47:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.04-07.30.47:104][  0]LogDerivedDataCache: Using Local data cache path C:/Users/peopl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.04-07.30.47:194][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.04-07.30.47:245][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.04-07.30.47:326][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.04-07.30.47:326][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.04-07.30.50:926][  0]LogAssetRegistry: FAssetRegistry took 0.0577 seconds to start up
+[2018.06.04-07.30.57:004][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.04-07.30.58:673][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.04-07.30.58:705][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.04-07.30.58:705][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.04-07.30.58:705][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.04-07.30.58:705][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.04-07.30.58:705][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.04-07.30.59:213][  0]LogNetVersion: MyProject2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 607132587)
+[2018.06.04-07.31.03:694][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.164716 seconds
+[2018.06.04-07.31.03:727][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.04-07.31.03:727][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.04-07.31.03:727][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.04-07.31.17:025][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.04-07.31.17:071][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.04-07.31.18:162][  0]SourceControl: ソースコントロールは無効です
+[2018.06.04-07.31.18:162][  0]SourceControl: ソースコントロールは無効です
+[2018.06.04-07.31.18:286][  0]SourceControl: ソースコントロールは無効です
+[2018.06.04-07.31.18:337][  0]SourceControl: ソースコントロールは無効です
+[2018.06.04-07.31.19:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.04-07.31.19:862][  0]LogOcInput: OculusInput pre-init called
+[2018.06.04-07.31.20:489][  0]LogEngine: Initializing Engine...
+[2018.06.04-07.31.20:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.04-07.31.20:545][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.04-07.31.20:546][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.04-07.31.21:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.04-07.31.21:634][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.04-07.31.23:000][  0]LogInit: FAudioDevice initialized.
+[2018.06.04-07.31.23:166][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/peopl/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.04-07.31.23:183][  0]LogInit: Texture streaming: Enabled
+[2018.06.04-07.31.23:295][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.04-07.31.23:504][  0]LogInit: Transaction tracking system initialized
+[2018.06.04-07.31.23:916][  0]BlueprintLog: New page: エディタの読み込み
+[2018.06.04-07.31.24:976][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.06.04-07.31.25:722][  0]LogConsoleResponse: Display: 
+[2018.06.04-07.31.28:257][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/projects/adachi_rogue/MyProject2/Content/' took 0.02s
+[2018.06.04-07.31.28:257][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.04-07.31.28:261][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.04-07.31.28:262][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.04-07.31.28:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.04-07.31.28:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.04-07.31.31:220][  0]SourceControl: ソースコントロールは無効です
+[2018.06.04-07.31.31:259][  0]Cmd: MAP LOAD FILE="../../../../projects/adachi_rogue/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.04-07.31.31:273][  0]LightingResults: New page: ライティングのビルド
+[2018.06.04-07.31.31:392][  0]MapCheck: New page: マップをチェック
+[2018.06.04-07.31.31:392][  0]LightingResults: New page: <何も選択されていません>
+[2018.06.04-07.31.35:352][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [42.821297ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.04-07.31.36:146][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.04-07.31.36:702][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.04-07.31.36:856][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.04-07.31.36:914][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 58.204ミリ秒かかりました。
+[2018.06.04-07.31.36:914][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.662
+[2018.06.04-07.31.38:335][  0]LogCollectionManager: Loaded 0 collections in 0.001069 seconds
+[2018.06.04-07.31.38:529][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/projects/adachi_rogue/MyProject2/Saved/Collections/' took 0.01s
+[2018.06.04-07.31.38:529][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/projects/adachi_rogue/MyProject2/Content/Developers/peopl/Collections/' took 0.01s
+[2018.06.04-07.31.38:529][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/projects/adachi_rogue/MyProject2/Content/Collections/' took 0.01s
+[2018.06.04-07.31.38:529][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.04-07.31.38:540][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2452 classes and 558 folders.
+[2018.06.04-07.31.38:620][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.04-07.31.39:835][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.04-07.31.39:901][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.04-07.31.40:008][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2018.06.04-07.31.41:211][  0]LogSlate: Took 0.012795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.04-07.31.41:250][  0]LogSlate: Took 0.036293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.06.04-07.31.41:266][  0]LogSlate: Took 0.014617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.06.04-07.31.41:281][  0]LogSlate: Took 0.014827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.04-07.31.41:335][  0]LogSlate: Took 0.009287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.04-07.31.41:695][  0]LogRenderer: Reallocating scene render targets to support 880x436 Format 10 NumSamples 1 (Frame:1).
+[2018.06.04-07.31.42:177][  0]LogSlate: Took 0.007910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.04-07.31.42:425][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.04-07.31.42:425][  0]LogLoad: (Engine Initialization) Total time: 79.16 seconds
+[2018.06.04-07.31.42:425][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.04-07.31.42:631][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.04-07.31.42:798][  1]LogAssetRegistry: Asset discovery search completed in 51.8978 seconds
+[2018.06.04-07.31.42:800][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.06.04-07.31.42:800][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2018.06.04-07.31.43:626][  8]LogSlate: Took 0.147333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.06.04-07.31.43:626][  8]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.04-07.32.02:823][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-07.32.03:815][168]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.06.04-07.32.05:298][168]LogSlate: Took 0.011962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2018.06.04-07.32.05:314][168]LogSlate: Took 0.015153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.04-07.32.15:605][715]LogSlate: Took 0.017979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.04-07.32.24:991][241]LogRenderer: Reallocating scene render targets to support 880x540 Format 10 NumSamples 1 (Frame:1).
+[2018.06.04-07.32.40:403][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-07.33.03:998][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-07.33.55:380][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-07.34.19:400][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/block" FILE="../../../../projects/adachi_rogue/MyProject2/Content/block.uasset" SILENT=true
+[2018.06.04-07.34.19:539][960]LogSavePackage: Save=65.53ms
+[2018.06.04-07.34.19:539][960]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/block9906378A44A9F0B9BC530EBDEACBBF57.tmp' to '../../../../projects/adachi_rogue/MyProject2/Content/block.uasset'
+[2018.06.04-07.34.19:570][960]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Content/block.uasset
+[2018.06.04-07.34.23:172][155]BlueprintLog: New page: block をコンパイル
+[2018.06.04-07.40.59:880][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-07.42.25:443][554]BlueprintLog: New page: block をコンパイル
+[2018.06.04-07.42.26:919][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/block" FILE="../../../../projects/adachi_rogue/MyProject2/Content/block.uasset" SILENT=true
+[2018.06.04-07.42.26:949][611]LogSavePackage: Save=24.21ms
+[2018.06.04-07.42.26:949][611]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/blockEFDCA8D84A8D441286AB8B9E1A7E2B7C.tmp' to '../../../../projects/adachi_rogue/MyProject2/Content/block.uasset'
+[2018.06.04-07.42.26:951][611]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Content/block.uasset
+[2018.06.04-07.46.23:958][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2018.06.04-07.46.23:988][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/block] ([1] browsable assets)...
+[2018.06.04-07.46.24:021][355]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/block.block]
+[2018.06.04-07.46.24:021][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/block]
+[2018.06.04-07.46.24:021][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/block" FILE="../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.06.04-07.46.24:054][355]LogSavePackage: Save=28.55ms
+[2018.06.04-07.46.24:054][355]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/block_Auto178833DC84EC444E99ABFFD879E5FDC0E.tmp' to '../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto1.uasset'
+[2018.06.04-07.46.24:066][355]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto1.uasset
+[2018.06.04-07.46.24:066][355]LogFileHelpers: Auto-saving content packages took 0.102
+[2018.06.04-07.48.00:546][ 55]BlueprintLog: New page: block をコンパイル
+[2018.06.04-07.53.06:140][751]BlueprintLog: New page: block をコンパイル
+[2018.06.04-07.56.38:083][424]LogSavePackage: Save=2343.45ms
+[2018.06.04-07.56.38:083][424]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/ThirdPersonExampleMap_Auto2AC988CD140E18795204DD69BF48E41B8.tmp' to '../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.06.04-07.56.38:085][424]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.06.04-07.56.38:165][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.845
+[2018.06.04-07.56.38:165][424]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.845
+[2018.06.04-07.56.38:171][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/block] ([1] browsable assets)...
+[2018.06.04-07.56.38:201][424]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/block.block]
+[2018.06.04-07.56.38:201][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/block]
+[2018.06.04-07.56.38:201][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/block" FILE="../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.04-07.56.38:232][424]LogSavePackage: Save=26.31ms
+[2018.06.04-07.56.38:232][424]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/block_Auto2555C98EC4D9FB76EF71DB3A195C44505.tmp' to '../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto2.uasset'
+[2018.06.04-07.56.38:233][424]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/block_Auto2.uasset
+[2018.06.04-07.56.38:233][424]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.06.04-08.16.41:781][ 42]LogSavePackage: Save=2415.78ms
+[2018.06.04-08.16.41:781][ 42]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/ThirdPersonExampleMap_Auto3944782AE4259AF963A13859FA81D135F.tmp' to '../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.06.04-08.16.41:783][ 42]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.06.04-08.16.41:787][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.510
+[2018.06.04-08.16.41:788][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.510
+[2018.06.04-08.18.42:317][947]LogSavePackage: Save=2470.17ms
+[2018.06.04-08.18.42:317][947]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/ThirdPersonExampleMapD5BC6B064968F002D3BE4FBE384CB55A.tmp' to '../../../../projects/adachi_rogue/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.04-08.18.42:322][947]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.04-08.18.42:351][947]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.638
+[2018.06.04-08.19.42:772][679]LogSavePackage: Save=2439.83ms
+[2018.06.04-08.19.42:772][679]LogSavePackage: Moving '../../../../projects/adachi_rogue/MyProject2/Saved/ThirdPersonExampleMap70ECB20147FC3B1007F0BA99F8600FBD.tmp' to '../../../../projects/adachi_rogue/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.04-08.19.42:776][679]LogSavePackage: Display: Finished SavePackage ../../../../projects/adachi_rogue/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.04-08.19.42:797][679]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.603
+[2018.06.04-08.20.30:037][187]LogSlate: Took 0.324394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.06.04-08.20.30:097][187]LogSlate: Took 0.019464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2018.06.04-08.20.34:451][442]LogTemp: Repeating last play command: 選択ビューポート
+[2018.06.04-08.20.34:471][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.04-08.20.34:472][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-08.20.34:514][442]PIE: New page: PIEセッション: ThirdPersonExampleMap (2018/06/05 2:20:34)
+[2018.06.04-08.20.34:514][442]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.04-08.20.34:560][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046277s)
+[2018.06.04-08.20.34:562][442]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.04-08.20.34:563][442]LogPlayLevel: PIE: World Init took: (0.002065s)
+[2018.06.04-08.20.34:563][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048775s)
+[2018.06.04-08.20.34:645][442]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.04-08.20.34:745][442]LogInit: FAudioDevice initialized.
+[2018.06.04-08.20.34:818][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.04-08.20.34:846][442]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.06.04-17.20.34
+[2018.06.04-08.20.34:863][442]LogWorld: Bringing up level for play took: 0.027369
+[2018.06.04-08.20.34:997][442]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2018.06.04-08.20.35:011][442]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.252のプレイ イン エディタの開始時間
+[2018.06.04-08.20.35:012][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.04-08.20.37:212][477]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-1-
+[2018.06.04-08.20.37:213][477]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.37:213][477]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:213][477]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-4-1-
+[2018.06.04-08.20.37:223][478]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-4-1-
+[2018.06.04-08.20.37:239][479]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-4-1-
+[2018.06.04-08.20.37:260][480]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-1-
+[2018.06.04-08.20.37:309][481]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.37:309][481]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:309][481]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-3-1-
+[2018.06.04-08.20.37:328][482]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-2-1-
+[2018.06.04-08.20.37:375][483]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.37:376][483]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:376][483]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-5-1-
+[2018.06.04-08.20.37:391][484]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-6-1-
+[2018.06.04-08.20.37:423][485]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.37:424][485]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:424][485]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-2-
+[2018.06.04-08.20.37:480][486]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.37:481][486]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:481][486]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-6-2-
+[2018.06.04-08.20.37:504][487]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.37:504][487]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:505][487]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-2-2-
+[2018.06.04-08.20.37:531][488]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.37:531][488]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:531][488]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-3-1-
+[2018.06.04-08.20.37:538][489]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-2-1-
+[2018.06.04-08.20.37:556][490]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-1-1-
+[2018.06.04-08.20.37:573][491]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-0-1-
+[2018.06.04-08.20.37:589][492]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.37:624][493]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.37:625][493]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:625][493]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-2-1-
+[2018.06.04-08.20.37:632][494]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-2-1-
+[2018.06.04-08.20.37:649][495]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-2-1-
+[2018.06.04-08.20.37:665][496]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-2-1-
+[2018.06.04-08.20.37:682][497]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-1-
+[2018.06.04-08.20.37:722][498]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.37:722][498]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:722][498]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-1-2-
+[2018.06.04-08.20.37:730][499]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-0-2-
+[2018.06.04-08.20.37:768][500]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.37:768][500]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:769][500]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-0-
+[2018.06.04-08.20.37:797][501]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.37:797][501]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:798][501]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-3-1-
+[2018.06.04-08.20.37:805][502]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-4-1-
+[2018.06.04-08.20.37:852][503]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.37:852][503]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:852][503]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-2-
+[2018.06.04-08.20.37:887][504]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.37:887][504]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:887][504]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-1-1-
+[2018.06.04-08.20.37:894][505]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-0-1-
+[2018.06.04-08.20.37:934][506]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.37:934][506]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:934][506]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-0-
+[2018.06.04-08.20.37:965][507]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.37:965][507]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.37:965][507]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-3-
+[2018.06.04-08.20.38:000][508]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.38:000][508]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:000][508]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-6-2-
+[2018.06.04-08.20.38:007][509]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-2-
+[2018.06.04-08.20.38:024][510]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.38:064][511]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.38:064][511]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:065][511]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-0-1-
+[2018.06.04-08.20.38:095][512]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.38:096][512]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:096][512]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-0-2-
+[2018.06.04-08.20.38:127][513]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.38:128][513]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:128][513]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-3-
+[2018.06.04-08.20.38:164][514]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.38:165][514]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:165][514]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-1-
+[2018.06.04-08.20.38:172][515]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.38:213][516]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.38:214][516]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:214][516]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-2-
+[2018.06.04-08.20.38:221][517]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-0-2-
+[2018.06.04-08.20.38:240][518]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-0-2-
+[2018.06.04-08.20.38:256][519]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-2-
+[2018.06.04-08.20.38:272][520]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.38:316][521]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.38:316][521]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:316][521]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-7-2-
+[2018.06.04-08.20.38:323][522]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-8-2-
+[2018.06.04-08.20.38:341][523]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-9-2-
+[2018.06.04-08.20.38:358][524]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-10-2-
+[2018.06.04-08.20.38:405][525]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.38:405][525]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:406][525]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-1-0-
+[2018.06.04-08.20.38:413][526]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-0-0-
+[2018.06.04-08.20.38:429][527]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.38:478][528]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.38:478][528]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:478][528]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-10-2-
+[2018.06.04-08.20.38:485][529]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-10-2-
+[2018.06.04-08.20.38:502][530]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-10-2-
+[2018.06.04-08.20.38:553][531]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.38:554][531]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:554][531]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-9-2-
+[2018.06.04-08.20.38:561][532]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-8-2-
+[2018.06.04-08.20.38:578][533]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-7-2-
+[2018.06.04-08.20.38:632][534]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.38:633][534]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:633][534]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-5-0-
+[2018.06.04-08.20.38:640][535]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-6-0-
+[2018.06.04-08.20.38:658][536]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-7-0-
+[2018.06.04-08.20.38:710][537]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.38:710][537]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:710][537]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-7-3-
+[2018.06.04-08.20.38:749][538]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.38:749][538]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:750][538]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-3-
+[2018.06.04-08.20.38:789][539]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.38:789][539]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:790][539]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-8-2-
+[2018.06.04-08.20.38:828][540]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.38:829][540]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:829][540]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-10-2-
+[2018.06.04-08.20.38:836][541]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-10-2-
+[2018.06.04-08.20.38:853][542]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-10-2-
+[2018.06.04-08.20.38:870][543]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-10-2-
+[2018.06.04-08.20.38:886][544]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-10-2-
+[2018.06.04-08.20.38:938][545]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.38:938][545]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.38:938][545]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-9-2-
+[2018.06.04-08.20.38:945][546]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-8-2-
+[2018.06.04-08.20.38:962][547]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-7-2-
+[2018.06.04-08.20.38:978][548]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-6-2-
+[2018.06.04-08.20.38:995][549]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.39:048][550]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.39:048][550]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:048][550]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-1-3-
+[2018.06.04-08.20.39:056][551]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-2-3-
+[2018.06.04-08.20.39:073][552]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-3-3-
+[2018.06.04-08.20.39:090][553]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-4-3-
+[2018.06.04-08.20.39:148][554]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.39:149][554]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:149][554]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-10-2-
+[2018.06.04-08.20.39:156][555]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.39:211][556]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:211][556]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:211][556]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-8-2-
+[2018.06.04-08.20.39:219][557]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-8-2-
+[2018.06.04-08.20.39:281][558]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.39:281][558]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:281][558]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-8-2-
+[2018.06.04-08.20.39:288][559]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.39:349][560]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.39:349][560]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:350][560]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-8-1-
+[2018.06.04-08.20.39:395][561]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.39:395][561]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:396][561]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-8-1-
+[2018.06.04-08.20.39:443][562]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:443][562]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:443][562]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-5-0-
+[2018.06.04-08.20.39:450][563]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.39:506][564]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.39:506][564]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:506][564]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-8-3-
+[2018.06.04-08.20.39:553][565]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.39:553][565]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:554][565]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-2-
+[2018.06.04-08.20.39:600][566]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:601][566]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:601][566]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-1-0-
+[2018.06.04-08.20.39:656][567]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:656][567]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:656][567]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-10-2-
+[2018.06.04-08.20.39:664][568]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.39:720][569]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:721][569]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:721][569]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-1-0-
+[2018.06.04-08.20.39:728][570]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.39:809][571]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.39:810][571]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:810][571]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-9-2-
+[2018.06.04-08.20.39:861][572]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.39:861][572]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.39:861][572]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-7-0-
+[2018.06.04-08.20.39:868][573]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-7-0-
+[2018.06.04-08.20.39:884][574]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-7-0-
+[2018.06.04-08.20.39:902][575]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-7-0-
+[2018.06.04-08.20.39:933][576]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-7-0-
+[2018.06.04-08.20.40:006][577]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.40:007][577]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:007][577]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-2-3-
+[2018.06.04-08.20.40:014][578]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-3-
+[2018.06.04-08.20.40:072][579]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.40:073][579]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:073][579]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-8-0-
+[2018.06.04-08.20.40:081][580]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-9-0-
+[2018.06.04-08.20.40:097][581]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-10-0-
+[2018.06.04-08.20.40:155][582]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.40:155][582]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:155][582]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-4-1-
+[2018.06.04-08.20.40:162][583]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-4-1-
+[2018.06.04-08.20.40:178][584]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-4-1-
+[2018.06.04-08.20.40:195][585]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.40:262][586]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.40:262][586]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:263][586]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-9-0-
+[2018.06.04-08.20.40:271][587]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-9-0-
+[2018.06.04-08.20.40:289][588]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-9-0-
+[2018.06.04-08.20.40:348][589]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.40:348][589]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:349][589]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-4-
+[2018.06.04-08.20.40:399][590]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.40:400][590]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:400][590]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-2-4-
+[2018.06.04-08.20.40:407][591]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-2-4-
+[2018.06.04-08.20.40:429][592]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-2-4-
+[2018.06.04-08.20.40:442][593]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-2-4-
+[2018.06.04-08.20.40:504][594]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.40:504][594]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:504][594]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-3-4-
+[2018.06.04-08.20.40:511][595]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-4-4-
+[2018.06.04-08.20.40:580][596]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.40:580][596]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:580][596]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-1-4-
+[2018.06.04-08.20.40:588][597]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-4-
+[2018.06.04-08.20.40:653][598]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.40:654][598]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:654][598]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-1-4-
+[2018.06.04-08.20.40:661][599]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-0-4-
+[2018.06.04-08.20.40:677][600]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.40:740][601]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.40:741][601]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:741][601]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-4-3-
+[2018.06.04-08.20.40:798][602]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.40:798][602]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:799][602]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-5-1-
+[2018.06.04-08.20.40:805][603]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.40:870][604]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.40:871][604]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:871][604]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-5-0-
+[2018.06.04-08.20.40:926][605]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.40:926][605]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:926][605]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-0-
+[2018.06.04-08.20.40:933][606]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.40:997][607]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.40:998][607]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.40:998][607]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-0-
+[2018.06.04-08.20.41:056][608]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.41:056][608]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:057][608]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-4-3-
+[2018.06.04-08.20.41:115][609]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.41:115][609]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:115][609]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-5-
+[2018.06.04-08.20.41:172][610]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.41:172][610]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:172][610]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-10-0-
+[2018.06.04-08.20.41:179][611]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.41:243][612]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.41:243][612]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:244][612]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-0-5-
+[2018.06.04-08.20.41:251][613]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-0-5-
+[2018.06.04-08.20.41:267][614]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-5-
+[2018.06.04-08.20.41:284][615]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.41:349][616]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.41:349][616]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:350][616]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-9-0-
+[2018.06.04-08.20.41:404][617]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.41:405][617]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:405][617]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-2-5-
+[2018.06.04-08.20.41:477][618]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.41:477][618]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:478][618]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-4-
+[2018.06.04-08.20.41:485][619]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-0-4-
+[2018.06.04-08.20.41:502][620]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-0-4-
+[2018.06.04-08.20.41:569][621]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.41:569][621]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:569][621]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-10-0-
+[2018.06.04-08.20.41:575][622]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.41:641][623]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.41:641][623]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:641][623]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-6-0-
+[2018.06.04-08.20.41:648][624]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.41:718][625]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.41:718][625]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:718][625]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-3-1-
+[2018.06.04-08.20.41:725][626]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.41:789][627]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.41:789][627]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:790][627]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-9-0-
+[2018.06.04-08.20.41:796][628]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.41:861][629]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.41:862][629]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:862][629]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-10-0-
+[2018.06.04-08.20.41:869][630]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.41:949][631]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.41:950][631]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.41:950][631]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-4-3-
+[2018.06.04-08.20.41:957][632]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.42:020][633]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.42:021][633]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:021][633]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-5-3-
+[2018.06.04-08.20.42:028][634]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-6-3-
+[2018.06.04-08.20.42:044][635]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.42:115][636]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.42:115][636]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:115][636]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-9-3-
+[2018.06.04-08.20.42:172][637]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.42:172][637]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:172][637]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-3-5-
+[2018.06.04-08.20.42:234][638]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.42:235][638]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:235][638]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-6-
+[2018.06.04-08.20.42:303][639]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.42:303][639]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:304][639]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-6-4-
+[2018.06.04-08.20.42:361][640]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.42:361][640]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:361][640]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-1-6-
+[2018.06.04-08.20.42:368][641]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-2-6-
+[2018.06.04-08.20.42:384][642]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-3-6-
+[2018.06.04-08.20.42:401][643]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-4-6-
+[2018.06.04-08.20.42:472][644]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.42:472][644]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:473][644]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-6-4-
+[2018.06.04-08.20.42:480][645]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-4-
+[2018.06.04-08.20.42:496][646]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.42:571][647]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.42:572][647]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:572][647]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-3-
+[2018.06.04-08.20.42:579][648]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.42:659][649]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.42:659][649]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:660][649]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-4-
+[2018.06.04-08.20.42:720][650]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.42:720][650]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:720][650]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-0-5-
+[2018.06.04-08.20.42:780][651]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.42:780][651]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:780][651]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-6-3-
+[2018.06.04-08.20.42:788][652]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-5-3-
+[2018.06.04-08.20.42:805][653]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-3-
+[2018.06.04-08.20.42:822][654]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.42:914][655]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.42:914][655]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:915][655]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-4-5-
+[2018.06.04-08.20.42:977][656]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.42:977][656]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.42:978][656]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-3-
+[2018.06.04-08.20.43:042][657]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.43:042][657]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:042][657]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-2-6-
+[2018.06.04-08.20.43:049][658]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-6-
+[2018.06.04-08.20.43:066][659]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-2-6-
+[2018.06.04-08.20.43:152][660]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.43:152][660]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:152][660]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-3-6-
+[2018.06.04-08.20.43:214][661]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.43:214][661]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:214][661]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-2-6-
+[2018.06.04-08.20.43:222][662]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.43:297][663]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.43:298][663]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:298][663]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-3-6-
+[2018.06.04-08.20.43:305][664]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-4-6-
+[2018.06.04-08.20.43:323][665]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-5-6-
+[2018.06.04-08.20.43:403][666]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.43:403][666]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:404][666]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-6-3-
+[2018.06.04-08.20.43:471][667]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.43:472][667]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:472][667]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-5-7-
+[2018.06.04-08.20.43:537][668]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.43:537][668]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:538][668]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-1-5-
+[2018.06.04-08.20.43:544][669]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-2-5-
+[2018.06.04-08.20.43:561][670]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-3-5-
+[2018.06.04-08.20.43:578][671]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-4-5-
+[2018.06.04-08.20.43:651][672]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.43:652][672]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:652][672]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-4-5-
+[2018.06.04-08.20.43:659][673]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-5-
+[2018.06.04-08.20.43:675][674]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.43:754][675]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.43:754][675]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:755][675]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-4-5-
+[2018.06.04-08.20.43:831][676]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.43:831][676]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:832][676]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-2-5-
+[2018.06.04-08.20.43:839][677]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-2-5-
+[2018.06.04-08.20.43:856][678]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.43:946][679]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.43:946][679]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.43:947][679]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-5-5-
+[2018.06.04-08.20.44:022][680]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.44:022][680]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:023][680]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-2-6-
+[2018.06.04-08.20.44:088][681]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.44:088][681]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:089][681]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-4-
+[2018.06.04-08.20.44:154][682]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.44:155][682]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:155][682]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-4-3-
+[2018.06.04-08.20.44:162][683]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-4-3-
+[2018.06.04-08.20.44:178][684]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.44:264][685]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.44:264][685]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:264][685]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-4-6-
+[2018.06.04-08.20.44:339][686]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.44:340][686]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:340][686]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-3-0-
+[2018.06.04-08.20.44:411][687]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.44:411][687]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:411][687]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-5-6-
+[2018.06.04-08.20.44:476][688]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.44:476][688]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:477][688]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-6-6-
+[2018.06.04-08.20.44:483][689]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-7-6-
+[2018.06.04-08.20.44:500][690]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-8-6-
+[2018.06.04-08.20.44:576][691]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.44:576][691]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:577][691]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-6-6-
+[2018.06.04-08.20.44:584][692]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-6-6-
+[2018.06.04-08.20.44:601][693]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-6-6-
+[2018.06.04-08.20.44:694][694]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.44:694][694]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:694][694]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-8-5-
+[2018.06.04-08.20.44:768][695]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.44:768][695]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:768][695]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-2-7-
+[2018.06.04-08.20.44:843][696]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.44:843][696]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:843][696]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-6-
+[2018.06.04-08.20.44:913][697]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.44:913][697]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.44:913][697]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-6-
+[2018.06.04-08.20.44:920][698]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.45:008][699]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.45:008][699]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:008][699]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-6-7-
+[2018.06.04-08.20.45:015][700]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-7-7-
+[2018.06.04-08.20.45:096][701]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.45:096][701]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:096][701]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-6-
+[2018.06.04-08.20.45:103][702]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.45:187][703]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.45:187][703]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:187][703]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-6-7-
+[2018.06.04-08.20.45:264][704]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.45:264][704]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:264][704]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-1-7-
+[2018.06.04-08.20.45:271][705]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-0-7-
+[2018.06.04-08.20.45:363][706]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.45:363][706]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:363][706]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-1-7-
+[2018.06.04-08.20.45:371][707]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-1-7-
+[2018.06.04-08.20.45:459][708]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.45:460][708]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:460][708]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-7-6-
+[2018.06.04-08.20.45:467][709]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-8-6-
+[2018.06.04-08.20.45:484][710]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-9-6-
+[2018.06.04-08.20.45:500][711]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-10-6-
+[2018.06.04-08.20.45:517][712]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.45:603][713]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.45:604][713]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:604][713]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-6-7-
+[2018.06.04-08.20.45:611][714]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.45:698][715]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.45:699][715]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:699][715]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-9-5-
+[2018.06.04-08.20.45:706][716]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-10-5-
+[2018.06.04-08.20.45:793][717]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.45:793][717]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:794][717]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-7-
+[2018.06.04-08.20.45:801][718]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.45:896][719]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.45:896][719]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:896][719]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-7-
+[2018.06.04-08.20.45:974][720]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.45:974][720]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.45:975][720]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-9-5-
+[2018.06.04-08.20.45:982][721]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.46:072][722]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.46:073][722]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:073][722]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-6-
+[2018.06.04-08.20.46:159][723]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.46:159][723]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:160][723]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-8-6-
+[2018.06.04-08.20.46:244][724]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.46:244][724]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:245][724]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-10-6-
+[2018.06.04-08.20.46:252][725]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-10-6-
+[2018.06.04-08.20.46:344][726]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.46:345][726]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:345][726]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-7-
+[2018.06.04-08.20.46:429][727]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.46:430][727]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:430][727]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-9-4-
+[2018.06.04-08.20.46:512][728]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.46:513][728]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:513][728]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-1-7-
+[2018.06.04-08.20.46:521][729]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-1-7-
+[2018.06.04-08.20.46:537][730]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.46:631][731]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.46:631][731]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:631][731]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-7-
+[2018.06.04-08.20.46:710][732]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.46:711][732]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:711][732]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-4-7-
+[2018.06.04-08.20.46:794][733]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.46:794][733]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:794][733]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-1-8-
+[2018.06.04-08.20.46:895][734]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.46:895][734]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:896][734]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-0-8-
+[2018.06.04-08.20.46:902][735]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.46:994][736]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.46:994][736]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.46:994][736]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-0-7-
+[2018.06.04-08.20.47:002][737]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.47:091][738]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.47:091][738]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:091][738]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-0-9-
+[2018.06.04-08.20.47:171][739]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.47:171][739]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:171][739]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-7-
+[2018.06.04-08.20.47:178][740]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-0-7-
+[2018.06.04-08.20.47:194][741]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.47:285][742]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.47:285][742]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:285][742]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-6-8-
+[2018.06.04-08.20.47:370][743]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.47:371][743]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:371][743]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-0-9-
+[2018.06.04-08.20.47:378][744]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-0-9-
+[2018.06.04-08.20.47:394][745]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.47:485][746]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.47:485][746]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:485][746]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-8-7-
+[2018.06.04-08.20.47:569][747]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.47:569][747]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:569][747]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-0-10-
+[2018.06.04-08.20.47:662][748]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.47:662][748]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:662][748]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-10-
+[2018.06.04-08.20.47:670][749]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-2-10-
+[2018.06.04-08.20.47:686][750]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-3-10-
+[2018.06.04-08.20.47:703][751]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-10-
+[2018.06.04-08.20.47:808][752]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.47:808][752]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:808][752]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-7-6-
+[2018.06.04-08.20.47:895][753]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.47:895][753]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.47:896][753]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-10-6-
+[2018.06.04-08.20.47:904][754]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-10-6-
+[2018.06.04-08.20.47:920][755]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-10-6-
+[2018.06.04-08.20.47:937][756]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-10-6-
+[2018.06.04-08.20.48:057][757]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.48:058][757]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:058][757]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-10-6-
+[2018.06.04-08.20.48:065][758]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.48:164][759]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.48:164][759]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:164][759]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-9-6-
+[2018.06.04-08.20.48:248][760]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.48:249][760]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:249][760]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-2-10-
+[2018.06.04-08.20.48:256][761]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-2-10-
+[2018.06.04-08.20.48:272][762]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-2-10-
+[2018.06.04-08.20.48:289][763]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-2-10-
+[2018.06.04-08.20.48:320][764]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-2-10-
+[2018.06.04-08.20.48:438][765]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.48:438][765]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:438][765]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-2-9-
+[2018.06.04-08.20.48:526][766]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.48:527][766]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:527][766]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-9-
+[2018.06.04-08.20.48:612][767]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.48:612][767]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:613][767]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-6-7-
+[2018.06.04-08.20.48:621][768]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-6-7-
+[2018.06.04-08.20.48:637][769]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-7-
+[2018.06.04-08.20.48:741][770]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.48:741][770]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:741][770]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-3-9-
+[2018.06.04-08.20.48:748][771]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-4-9-
+[2018.06.04-08.20.48:868][772]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.48:868][772]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:868][772]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-6-
+[2018.06.04-08.20.48:960][773]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.48:961][773]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.48:961][773]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-8-6-
+[2018.06.04-08.20.48:968][774]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.49:071][775]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.49:071][775]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:072][775]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-7-6-
+[2018.06.04-08.20.49:079][776]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.49:180][777]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.49:181][777]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:181][777]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-8-7-
+[2018.06.04-08.20.49:270][778]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.49:271][778]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:271][778]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-4-9-
+[2018.06.04-08.20.49:278][779]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-4-9-
+[2018.06.04-08.20.49:294][780]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-4-9-
+[2018.06.04-08.20.49:311][781]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-4-9-
+[2018.06.04-08.20.49:431][782]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.49:431][782]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:431][782]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-5-9-
+[2018.06.04-08.20.49:438][783]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-6-9-
+[2018.06.04-08.20.49:455][784]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-7-9-
+[2018.06.04-08.20.49:472][785]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-8-9-
+[2018.06.04-08.20.49:489][786]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-9-9-
+[2018.06.04-08.20.49:588][787]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.49:588][787]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:588][787]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-8-9-
+[2018.06.04-08.20.49:595][788]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-9-
+[2018.06.04-08.20.49:611][789]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.49:718][790]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.49:718][790]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:718][790]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-8-9-
+[2018.06.04-08.20.49:810][791]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.49:810][791]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:811][791]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-9-7-
+[2018.06.04-08.20.49:905][792]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.49:906][792]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.49:906][792]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-1-10-
+[2018.06.04-08.20.49:913][793]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-10-
+[2018.06.04-08.20.49:929][794]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.50:037][795]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.50:037][795]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:037][795]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-8-8-
+[2018.06.04-08.20.50:130][796]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.50:131][796]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:131][796]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-9-
+[2018.06.04-08.20.50:235][797]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.50:235][797]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:236][797]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-4-10-
+[2018.06.04-08.20.50:332][798]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.50:332][798]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:332][798]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-3-9-
+[2018.06.04-08.20.50:341][799]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-2-9-
+[2018.06.04-08.20.50:357][800]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-1-9-
+[2018.06.04-08.20.50:374][801]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-9-
+[2018.06.04-08.20.50:495][802]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.50:495][802]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:496][802]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-8-5-
+[2018.06.04-08.20.50:603][803]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.50:603][803]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:603][803]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-3-10-
+[2018.06.04-08.20.50:612][804]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-4-10-
+[2018.06.04-08.20.50:628][805]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-5-10-
+[2018.06.04-08.20.50:645][806]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-6-10-
+[2018.06.04-08.20.50:675][807]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-7-10-
+[2018.06.04-08.20.50:818][808]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.50:818][808]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:819][808]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-0-10-
+[2018.06.04-08.20.50:913][809]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.50:914][809]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.50:914][809]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-6-9-
+[2018.06.04-08.20.50:921][810]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-9-
+[2018.06.04-08.20.51:041][811]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.51:041][811]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:041][811]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-2-9-
+[2018.06.04-08.20.51:048][812]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-2-9-
+[2018.06.04-08.20.51:156][813]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.51:156][813]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:157][813]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-10-
+[2018.06.04-08.20.51:268][814]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.51:268][814]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:268][814]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-9-
+[2018.06.04-08.20.51:275][815]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.51:382][816]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.51:382][816]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:383][816]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-9-10-
+[2018.06.04-08.20.51:477][817]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.51:477][817]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:477][817]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-7-9-
+[2018.06.04-08.20.51:572][818]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.51:572][818]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:573][818]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-10-10-
+[2018.06.04-08.20.51:690][819]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.51:690][819]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:691][819]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-10-10-
+[2018.06.04-08.20.51:697][820]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-10-10-
+[2018.06.04-08.20.51:714][821]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.51:826][822]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.51:826][822]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:826][822]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-4-10-
+[2018.06.04-08.20.51:834][823]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.51:940][824]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.51:941][824]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.51:941][824]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-10-10-
+[2018.06.04-08.20.51:948][825]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-10-10-
+[2018.06.04-08.20.52:054][826]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.52:054][826]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:055][826]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-10-
+[2018.06.04-08.20.52:155][827]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.52:155][827]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:155][827]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-0-9-
+[2018.06.04-08.20.52:253][828]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.52:253][828]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:253][828]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-10-
+[2018.06.04-08.20.52:349][829]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.52:349][829]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:349][829]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-8-5-
+[2018.06.04-08.20.52:463][830]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.52:463][830]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:463][830]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-8-4-
+[2018.06.04-08.20.52:559][831]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.52:559][831]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:559][831]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-9-8-
+[2018.06.04-08.20.52:566][832]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-10-8-
+[2018.06.04-08.20.52:582][833]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.52:690][834]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.52:690][834]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:690][834]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-6-10-
+[2018.06.04-08.20.52:697][835]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-6-10-
+[2018.06.04-08.20.52:714][836]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-6-10-
+[2018.06.04-08.20.52:824][837]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.52:824][837]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:824][837]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-0-10-
+[2018.06.04-08.20.52:832][838]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-0-10-
+[2018.06.04-08.20.52:848][839]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-10-
+[2018.06.04-08.20.52:865][840]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.52:986][841]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.52:986][841]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.52:986][841]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-10-8-
+[2018.06.04-08.20.52:995][842]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-10-8-
+[2018.06.04-08.20.53:011][843]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-10-8-
+[2018.06.04-08.20.53:028][844]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-10-8-
+[2018.06.04-08.20.53:140][845]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.53:140][845]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:141][845]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-9-8-
+[2018.06.04-08.20.53:148][846]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.53:264][847]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=-1
+[2018.06.04-08.20.53:264][847]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:264][847]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-9-
+[2018.06.04-08.20.53:360][848]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.53:360][848]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:360][848]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-6-9-
+[2018.06.04-08.20.53:367][849]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.53:487][850]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.53:487][850]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:487][850]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-9-9-
+[2018.06.04-08.20.53:585][851]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.53:585][851]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:585][851]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-7-10-
+[2018.06.04-08.20.53:592][852]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-8-10-
+[2018.06.04-08.20.53:609][853]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-9-10-
+[2018.06.04-08.20.53:727][854]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.53:727][854]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:728][854]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-10-8-
+[2018.06.04-08.20.53:735][855]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.53:840][856]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.53:841][856]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:841][856]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-10-10-
+[2018.06.04-08.20.53:848][857]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.53:981][858]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.53:981][858]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.53:981][858]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-5-9-
+[2018.06.04-08.20.54:078][859]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.54:079][859]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:079][859]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-2-9-
+[2018.06.04-08.20.54:189][860]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.54:189][860]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:190][860]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-6-10-
+[2018.06.04-08.20.54:294][861]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.54:294][861]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:295][861]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-8-10-
+[2018.06.04-08.20.54:301][862]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] connect over!
+[2018.06.04-08.20.54:408][863]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.54:408][863]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:409][863]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-7-9-
+[2018.06.04-08.20.54:415][864]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-7-9-
+[2018.06.04-08.20.54:431][865]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.54:543][866]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.54:544][866]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:544][866]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-9-4-
+[2018.06.04-08.20.54:655][867]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.54:656][867]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:656][867]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-10-4-
+[2018.06.04-08.20.54:663][868]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.54:776][869]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=-1 y=0 z=0
+[2018.06.04-08.20.54:777][869]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:777][869]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-10-4-
+[2018.06.04-08.20.54:784][870]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-10-4-
+[2018.06.04-08.20.54:891][871]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.54:892][871]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:892][871]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-10-8-
+[2018.06.04-08.20.54:990][872]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=1 y=0 z=0
+[2018.06.04-08.20.54:990][872]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.54:991][872]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-10-4-
+[2018.06.04-08.20.54:998][873]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-10-4-
+[2018.06.04-08.20.55:014][874]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 7-10-4-
+[2018.06.04-08.20.55:123][875]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=0 z=1
+[2018.06.04-08.20.55:124][875]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.55:124][875]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-7-10-
+[2018.06.04-08.20.55:226][876]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=1 z=0
+[2018.06.04-08.20.55:226][876]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make load---------
+[2018.06.04-08.20.55:227][876]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-8-10-
+[2018.06.04-08.20.55:234][877]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-9-10-
+[2018.06.04-08.20.55:252][878]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-10-10-
+[2018.06.04-08.20.55:269][879]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] area over!
+[2018.06.04-08.20.55:374][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] vector:x=0 y=-1 z=0
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ---comp---
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-2-
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:375][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:381][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:381][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:381][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:383][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:383][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:383][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:384][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:384][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:385][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-1-3-
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:386][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 9-0-1-
+[2018.06.04-08.20.55:387][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:387][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:389][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:389][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:389][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:389][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-3-
+[2018.06.04-08.20.55:389][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:390][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:391][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:392][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:392][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:393][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:393][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:394][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-8-1-
+[2018.06.04-08.20.55:394][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:394][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-8-1-
+[2018.06.04-08.20.55:394][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:394][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:395][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 2-8-3-
+[2018.06.04-08.20.55:395][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:395][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:395][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-2-
+[2018.06.04-08.20.55:396][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:396][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:398][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:398][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:398][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:399][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:399][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:399][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 1-5-0-
+[2018.06.04-08.20.55:400][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:400][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:401][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:402][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:402][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:403][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:403][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:404][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:405][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:405][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:405][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:407][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:407][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:407][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:408][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:408][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:409][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:409][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-4-
+[2018.06.04-08.20.55:409][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:409][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:410][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:410][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:410][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:412][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:412][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:412][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-3-
+[2018.06.04-08.20.55:412][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:412][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:413][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:413][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:413][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:414][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 4-6-3-
+[2018.06.04-08.20.55:414][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:414][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:415][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:415][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:415][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:416][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-4-4-
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-3-0-
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:417][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:419][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:419][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:419][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:420][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:420][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:420][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:421][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:422][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:422][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:423][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:423][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:423][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:424][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:424][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-0-6-
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-6-7-
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 10-9-4-
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:425][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:427][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:427][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:427][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:428][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:428][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:429][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 5-6-8-
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:430][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:432][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:432][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:432][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:433][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:433][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:433][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:435][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:435][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:435][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:436][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:436][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:436][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:438][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:438][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:438][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:439][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:440][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:440][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:440][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-9-7-
+[2018.06.04-08.20.55:440][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:440][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:442][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:442][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:442][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:443][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:443][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:444][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:445][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:445][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:445][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:446][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:447][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:447][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:448][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:448][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:448][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:449][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-6-10-
+[2018.06.04-08.20.55:449][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:449][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:false  back:true  top:false  bottom:false
+[2018.06.04-08.20.55:450][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:450][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:450][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:451][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 6-4-10-
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:true  left:false  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-8-10-
+[2018.06.04-08.20.55:452][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:453][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:454][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:454][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] none
+[2018.06.04-08.20.55:454][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 0-0-9-
+[2018.06.04-08.20.55:454][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:454][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:false  front:true  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 8-9-9-
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] 3-6-10-
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] ok
+[2018.06.04-08.20.55:455][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] right:false  left:true  front:false  back:false  top:false  bottom:false
+[2018.06.04-08.20.55:456][880]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_3] make stairs
+[2018.06.04-08.20.55:458][880]LogScript: Warning: Attempted to access index -1 from array map_data of length 11!
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:459][880]PIE: Error: ブループリントランタイムエラー: Attempted to access index -1 from array map_data of length 11! from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempted to access index -1 from array map_data of length 11!
+[2018.06.04-08.20.55:459][880]LogScript: Warning: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:460][880]PIE: Error: ブループリントランタイムエラー: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2
+[2018.06.04-08.20.55:460][880]LogScript: Warning: Attempt to assign variable through None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:461][880]PIE: Error: ブループリントランタイムエラー: Attempt to assign variable through None from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempt to assign variable through None
+[2018.06.04-08.20.55:461][880]LogScript: Warning: Attempted to access index 0 from array therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6 of length 0!
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B21C
+[2018.06.04-08.20.55:462][880]PIE: Error: ブループリントランタイムエラー: Attempted to access index 0 from array therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6 of length 0! from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempted to access index 0 from array therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6 of length 0!
+[2018.06.04-08.20.55:463][880]LogScript: Warning: Accessed None reading structure visible_26_297D0BEE46B7E0284F1D7D80449BC611
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B21C
+[2018.06.04-08.20.55:463][880]PIE: Error: ブループリントランタイムエラー: Accessed None reading structure visible_26_297D0BEE46B7E0284F1D7D80449BC611 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None reading structure visible_26_297D0BEE46B7E0284F1D7D80449BC611
+[2018.06.04-08.20.55:464][880]LogScript: Warning: Attempted to access index -1 from array second_7_CEF2F161466518174C525E95537F10D2 of length 11!
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B7EF
+[2018.06.04-08.20.55:464][880]PIE: Error: ブループリントランタイムエラー: Attempted to access index -1 from array second_7_CEF2F161466518174C525E95537F10D2 of length 11! from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: back を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempted to access index -1 from array second_7_CEF2F161466518174C525E95537F10D2 of length 11!
+[2018.06.04-08.20.55:465][880]LogScript: Warning: Accessed None reading structure therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B7EF
+[2018.06.04-08.20.55:465][880]PIE: Error: ブループリントランタイムエラー: Accessed None reading structure therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: back を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None reading structure therd_3_6D9A8BFD4EB5D3D2AC623AA3DFB737F6
+[2018.06.04-08.20.55:466][880]LogScript: Warning: Attempt to assign variable through None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B7EF
+[2018.06.04-08.20.55:466][880]PIE: Error: ブループリントランタイムエラー: Attempt to assign variable through None from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: back を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempt to assign variable through None
+[2018.06.04-08.20.55:467][880]LogScript: Warning: Accessed None trying to read property back
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B804
+[2018.06.04-08.20.55:468][880]PIE: Error: ブループリントランタイムエラー: Accessed None trying to read property back from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: Set Collision in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None trying to read property back
+[2018.06.04-08.20.55:469][880]LogScript: Warning: Attempted to access index -1 from array map_data of length 11!
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:470][880]PIE: Error: ブループリントランタイムエラー: Attempted to access index -1 from array map_data of length 11! from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempted to access index -1 from array map_data of length 11!
+[2018.06.04-08.20.55:470][880]LogScript: Warning: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:471][880]PIE: Error: ブループリントランタイムエラー: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2 from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Accessed None reading structure second_7_CEF2F161466518174C525E95537F10D2
+[2018.06.04-08.20.55:471][880]LogScript: Warning: Attempt to assign variable through None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_3
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:B20A
+[2018.06.04-08.20.55:472][880]PIE: Error: ブループリントランタイムエラー: Attempt to assign variable through None from function: 'ExecuteUbergraph_ThirdPersonExampleMap' from node: left を設定 in graph: EventGraph in object: ThirdPersonExampleMap with description: Attempt to assign variable through None
